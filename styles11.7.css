@@ -1,0 +1,32 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(Desktop-Nexus.jpg);
+    min-height: 500px;
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(DeviantArt-Wallpapers.jpg);
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(tai-hinh-nen-mien-phi.jpg);
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  .text-start {
+    text-align: left!important;
+}
